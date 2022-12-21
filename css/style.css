@@ -278,6 +278,7 @@ header.sticky{
 	grid-template-columns: repeat(auto-fit, minmax(350px, auto));
 	align-items: center;
 	gap: 2rem;
+	margin-top: 5rem;
 }
 
 .row{
