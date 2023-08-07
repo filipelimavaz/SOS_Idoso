@@ -16,3 +16,6 @@ A tecnologia por trás do SOS Idoso inclui:
 
 **Link para o protótipo do site:**
 - [SOS Idoso Website](https://sosidoso.netlify.app/)
+
+**Link para o site do projeto Apps4Society:**
+- [Apps4Society Website](https://apps4society.dcx.ufpb.br/)
